@@ -7,7 +7,7 @@
 #
 127.0.1.1 vedin1.ru-central1.internal vedin1
 127.0.0.1 localhost
-172.16.0.52 vedin2 #qq
+172.16.0.52 vedin2 #qq change2
 
 # The following lines are desirable for IPv6 capable hosts
 ::1 ip6-localhost ip6-loopback
